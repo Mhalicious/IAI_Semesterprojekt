@@ -33,12 +33,12 @@ text_wrap of your editor you should try using the `'` (single quote) for marking
 
 You can find the blueprints in the folder /Docu/Schaltplan .
 
-a name="pics"/>
+<a name="pics"/>
 ## Pictures
 
 You can find the pictures in the folder /Docu/Hilfsdateien .
 
-a name="vid"/>
+<a name="vid"/>
 ## Video
 
-[That's the Youtube Link from what i created ](https://www.youtube.com)
+[That's the Youtube Link from what I created ](https://www.youtube.com)
