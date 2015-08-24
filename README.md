@@ -31,12 +31,12 @@ text_wrap of your editor you should try using the `'` (single quote) for marking
 <a name="prints"/>
 ## Blueprints
 
-You can find the blueprints in the folder /Docu/Schaltplan .
+You can find the blueprints in the folder [/Docu/Schaltplan](https://github.com/Mhalicious/IAI_Semesterprojekt/tree/master/Docu/Schaltplan).
 
 <a name="pics"/>
 ## Pictures
 
-You can find the pictures in the folder /Docu/Hilfsdateien .
+You can find the pictures in the folder [/Docu/Hilfsdateien](https://github.com/Mhalicious/IAI_Semesterprojekt/tree/master/Docu/Hilfsdateien).
 
 <a name="vid"/>
 ## Video
